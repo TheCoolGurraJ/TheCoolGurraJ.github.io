@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: What is this?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gustav Jonsson and I'm currently studying programming at [NTI-gymnasiet](https://www.ntigymnasiet.se/vasteras/). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog is basically just a way for me to express my thoughts and reflect on the thing that I love the most: **Programming**!
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
